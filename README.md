@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Moyuri Akther 
 #### Frontend Developer | Web Developer
-![Frontend Developer | Web Developer](https://avatars.githubusercontent.com/u/75539860?v=4)
+![Frontend Developer | Web Developer]
 
 Hi, I'm Mayuri akther, Junior Web Developer. I have experience with Html, CSS, javascript, bootstrap, React Js, Node Js, Material Ui, MongoDB, Heroku, Firebase. I like to take the hard challenge. try to be a hard worker. 
 
