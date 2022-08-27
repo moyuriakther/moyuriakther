@@ -5,10 +5,15 @@
 Hi, I'm Mayuri akther, Junior Web Developer. I have experience with Html, CSS, javascript, bootstrap, React Js, Node Js, Material Ui, MongoDB, Heroku, Firebase. I like to take the hard challenge. try to be a hard worker. 
 
 ## 👨‍💻 Skills:
-✅ HTML 
+
+✅ HTML  
+
 ✅ CSS
+
 ✅ JAVASCRIPT
+
 ✅ REACT
+
 ✅ BOOTSTRAP / TAILWIND / MATERIAL-UI
 
 
