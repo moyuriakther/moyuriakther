@@ -28,13 +28,11 @@ Hi, I'm Mayuri akther, Junior Web Developer. I have experience with Html, CSS, j
  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyuriakther)](https://github.com/moyuriakther/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyuriakther&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=moyuriakther&show_icons=true&theme=radical)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=moyuriakther)  
+[![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=moyuriakther&theme=dark)
 
 ![GitHub metrics](https://metrics.lecoq.io/moyuriakther)  
 
