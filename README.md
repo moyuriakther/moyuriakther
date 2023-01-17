@@ -36,7 +36,5 @@ Hi, I'm Mayuri akther, Junior Web Developer. I have experience with Html, CSS, j
 
 ![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=moyuriakther&theme=dark)
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=moyuriakther&theme=dark)
-
 ![GitHub metrics](https://metrics.lecoq.io/moyuriakther)  
 
