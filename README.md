@@ -1,4 +1,4 @@
-[![MasterHead](https://photos.google.com/u/1/photo/AF1QipMM_YU50J-2uPZOSjiyCZuSS8J2QcNb9d4GWc_F)](https://rishavchanda.io)
+[![MasterHead](https://photos.google.com/u/1/photo/AF1QipMM_YU50J-2uPZOSjiyCZuSS8J2QcNb9d4GWc_F)]
 
 <h1 align="center">Hi 👋, I'm Moyuri Akther</h1>
 <h3 align="center">Full Stack Developer From Dhaka, Bangladesh</h3>
