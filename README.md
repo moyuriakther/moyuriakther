@@ -1,6 +1,4 @@
-<a href="https://www.facebook.com/mirhussainmurtaza/">
-<img src="https://photos.google.com/u/1/photo/AF1QipMM_YU50J-2uPZOSjiyCZuSS8J2QcNb9d4GWc_F" />
-</a>
+
 ### Hi there 👋, I'm Moyuri Akther 
 #### Frontend Developer | Web Developer
 
