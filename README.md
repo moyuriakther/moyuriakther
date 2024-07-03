@@ -1,5 +1,5 @@
+<h1 align="center">Hi 👋, I'm Moyuri Akthe</h1>
 
-### Hi there 👋, I'm Moyuri Akther 
 #### Frontend Developer | Web Developer
 
 ## About Me
