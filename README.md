@@ -2,10 +2,10 @@
 
 #### Frontend Developer | Web Developer
 
-## About Me
+<h3 align="left">👩‍💻  About Me</h3>
 Hi, I'm Mayuri akther, Junior Web Developer. I have experience with Html, CSS, javascript, bootstrap, React Js, Node Js, Material Ui, MongoDB, Heroku, Firebase. I like to take the hard challenge. try to be a hard worker. 
 
-## 👨‍💻 Skills:
+<h3 align="left">🛠 Language and Tools I Know</h3>
 
 ✅ HTML  
 
