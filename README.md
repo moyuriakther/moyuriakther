@@ -1,6 +1,5 @@
-<a href="https://www.facebook.com/mirhussainmurtaza/">
-<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
-</a>
+
+<img src="https://raw.githubusercontent.com/moyuriakther/moyuriakther/main/" />
 
 <h1 align="center">Hi 👋, I'm Moyuri Akther</h1>
 <h3 align="center">Full Stack Developer From Dhaka, Bangladesh</h3>
@@ -11,7 +10,7 @@
 
 - 🌱 I’m currently learning **Nextjs, GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-main-gamma-ashy.vercel.app](https://portfolio-main-gamma-ashy.vercel.app)
+- 👨‍💻 My Portfolio available at [https://portfolio-main-gamma-ashy.vercel.app](https://portfolio-main-gamma-ashy.vercel.app)
 
 - 💬 Ask me about **MERN,**
 
